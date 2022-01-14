@@ -136,3 +136,8 @@ install/sql-2017.iso
 certs/*
 .vagrant/
 base-windows-server-box.box
+install/SQLServerReportingServices.exe
+install/SharedManagementObjects.msi
+install/CRM9.0-Server-ENU-amd64.exe
+install/ndp48-x86-x64-allos-enu.exe
+install/SSMS-Setup-ENU.exe
